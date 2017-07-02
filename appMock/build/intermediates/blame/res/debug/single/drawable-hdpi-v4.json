@@ -68,12 +68,12 @@
         "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable-hdpi-v4/cast_abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "/home/lakhdar/.android/build-cache/cc1a4d5fa3d6b76b4d2326f743f49a4aaf173d41/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_skip_next_white_36.png",
         "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable-hdpi-v4/quantum_ic_skip_next_white_36.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/lakhdar/.android/build-cache/cc1a4d5fa3d6b76b4d2326f743f49a4aaf173d41/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_pause_white_24.png",

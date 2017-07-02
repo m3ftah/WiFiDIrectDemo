@@ -6,7 +6,7 @@ buildscript {
     repositories {
         jcenter()
         maven {
-            url uri('/home/lakhdar/ilab/Androfleet_Plugin')
+            url uri('./Androfleet_Plugin')
         }
     }
     dependencies {
@@ -27,6 +27,7 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
 androfleet {
     nodes 2
     androidVersion 23

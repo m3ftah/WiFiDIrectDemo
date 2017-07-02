@@ -8,20 +8,20 @@
         "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_media_pause_dark.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_play_arrow_grey600_48.png",
-        "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable-xxhdpi-v4/quantum_ic_play_arrow_grey600_48.png"
-    },
-    {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png",
         "source": "/home/lakhdar/.android/build-cache/078a5550ef49ce00fcbe27140f850a70844a7b26/output/res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/places_ic_clear.png",
-        "source": "/home/lakhdar/.android/build-cache/f7c413ad61fdc32ea7dea4d1bd74a2436aef60f9/output/res/drawable-xxhdpi-v4/places_ic_clear.png"
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_play_arrow_grey600_48.png",
+        "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable-xxhdpi-v4/quantum_ic_play_arrow_grey600_48.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_replay_10_white_24.png",
         "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable-xxhdpi-v4/quantum_ic_replay_10_white_24.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/places_ic_clear.png",
+        "source": "/home/lakhdar/.android/build-cache/f7c413ad61fdc32ea7dea4d1bd74a2436aef60f9/output/res/drawable-xxhdpi-v4/places_ic_clear.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_connected_02_dark.png",
@@ -56,12 +56,12 @@
         "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_play_dark.png",
-        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_media_play_dark.png"
-    },
-    {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_audiotrack_dark.png",
         "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_audiotrack_dark.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_play_dark.png",
+        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_media_play_dark.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_connecting_11_light.png",
@@ -104,16 +104,16 @@
         "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_mr_button_connected_03_dark.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cast_ic_notification_2.png",
-        "source": "/home/lakhdar/.android/build-cache/1b12ff0fbe8569ecb7d71dada3b974890fbd7da4/output/res/drawable-xxhdpi-v4/cast_ic_notification_2.png"
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_disconnected_dark.png",
+        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_mr_button_disconnected_dark.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_connecting_02_light.png",
         "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_mr_button_connecting_02_light.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_disconnected_dark.png",
-        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_mr_button_disconnected_dark.png"
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cast_ic_notification_2.png",
+        "source": "/home/lakhdar/.android/build-cache/1b12ff0fbe8569ecb7d71dada3b974890fbd7da4/output/res/drawable-xxhdpi-v4/cast_ic_notification_2.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_forward_30_white_36.png",
@@ -152,28 +152,28 @@
         "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_connecting_18_dark.png",
-        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_mr_button_connecting_18_dark.png"
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_closed_caption_white_36.png",
         "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable-xxhdpi-v4/quantum_ic_closed_caption_white_36.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_connecting_18_dark.png",
+        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_mr_button_connecting_18_dark.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png",
         "source": "/home/lakhdar/.android/build-cache/078a5550ef49ce00fcbe27140f850a70844a7b26/output/res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cast_ic_notification_0.png",
-        "source": "/home/lakhdar/.android/build-cache/1b12ff0fbe8569ecb7d71dada3b974890fbd7da4/output/res/drawable-xxhdpi-v4/cast_ic_notification_0.png"
-    },
-    {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_connecting_18_light.png",
         "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_mr_button_connecting_18_light.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cast_ic_notification_0.png",
+        "source": "/home/lakhdar/.android/build-cache/1b12ff0fbe8569ecb7d71dada3b974890fbd7da4/output/res/drawable-xxhdpi-v4/cast_ic_notification_0.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_connecting_08_light.png",
@@ -228,12 +228,12 @@
         "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_connected_19_light.png",
-        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_mr_button_connected_19_light.png"
-    },
-    {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
         "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_connected_19_light.png",
+        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxhdpi-v4/ic_mr_button_connected_19_light.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mr_button_connecting_06_light.png",

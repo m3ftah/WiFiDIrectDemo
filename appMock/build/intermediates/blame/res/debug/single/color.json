@@ -20,12 +20,12 @@
         "source": "/home/lakhdar/.android/build-cache/cc1a4d5fa3d6b76b4d2326f743f49a4aaf173d41/output/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/color/abc_hint_foreground_material_dark.xml"
-    },
-    {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
         "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",

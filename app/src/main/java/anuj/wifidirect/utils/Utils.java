@@ -13,8 +13,6 @@ import android.graphics.Color;
 import android.graphics.Typeface;
 import android.media.Ringtone;
 import android.media.RingtoneManager;
-import android.net.ConnectivityManager;
-import android.net.NetworkInfo;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Environment;
@@ -30,15 +28,15 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import anuj.wifidirect.R;
-import anuj.wifidirect.GlobalActivity;
-
 import java.io.File;
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Locale;
 import java.util.TimeZone;
+
+import anuj.wifidirect.GlobalActivity;
+import anuj.wifidirect.R;
 
 /**
  * Created by anuj.sharma on 1/12/2017.
@@ -72,15 +70,6 @@ public class Utils {
         Log.d(tag, msg);
     }
 
-    public static boolean isNetworkAvailable(Context context) {
-        if (context == null && GlobalActivity.getGlobalContext() != null) {
-            context = GlobalActivity.getGlobalContext();
-        }
-        ConnectivityManager connMgr = (ConnectivityManager)
-                context.getSystemService(Context.CONNECTIVITY_SERVICE);
-        NetworkInfo networkInfo = connMgr.getActiveNetworkInfo();
-        return (networkInfo != null && networkInfo.isConnected());
-    }
 
     public final void showToast(String toast) {
         if (toast != null) {

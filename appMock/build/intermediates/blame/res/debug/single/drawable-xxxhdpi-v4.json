@@ -40,12 +40,12 @@
         "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable-xxxhdpi-v4/quantum_ic_skip_next_grey600_36.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_group_collapse_13.png",
-        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxxhdpi-v4/ic_group_collapse_13.png"
-    },
-    {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png",
         "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_group_collapse_13.png",
+        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxxhdpi-v4/ic_group_collapse_13.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
@@ -116,12 +116,12 @@
         "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxxhdpi-v4/ic_group_collapse_08.png"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_group_expand_10.png",
-        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxxhdpi-v4/ic_group_expand_10.png"
-    },
-    {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/places_ic_search.png",
         "source": "/home/lakhdar/.android/build-cache/f7c413ad61fdc32ea7dea4d1bd74a2436aef60f9/output/res/drawable-xxxhdpi-v4/places_ic_search.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_group_expand_10.png",
+        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/drawable-xxxhdpi-v4/ic_group_expand_10.png"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_volume_up_white_36.png",

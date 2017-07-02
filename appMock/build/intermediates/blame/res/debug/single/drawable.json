@@ -8,12 +8,12 @@
         "source": "/home/lakhdar/.android/build-cache/cc1a4d5fa3d6b76b4d2326f743f49a4aaf173d41/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable/notification_icon_background.xml"
-    },
-    {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/details_view.xml",
         "source": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/src/main/res/drawable/details_view.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
@@ -56,12 +56,12 @@
         "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable/cast_ic_notification_skip_next.xml"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable/abc_ratingbar_material.xml"
-    },
-    {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
         "source": "/home/lakhdar/.android/build-cache/cc1a4d5fa3d6b76b4d2326f743f49a4aaf173d41/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
@@ -112,16 +112,16 @@
         "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable/cast_ic_expanded_controller_pause.xml"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
-        "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
         "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable/cast_ic_mini_controller_mute.xml"
     },
     {
-        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/home/lakhdar/.android/build-cache/2e86971be9ec7e772aaf89127eb377c5637e52e3/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
     },
     {
         "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
