@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/lakhdar/.android/build-cache/f5f03ef1554caeb13debae4e94a3e18be5c073d5/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/lakhdar/.android/build-cache/f5f03ef1554caeb13debae4e94a3e18be5c073d5/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/lakhdar/.android/build-cache/f5f03ef1554caeb13debae4e94a3e18be5c073d5/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

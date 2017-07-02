@@ -1,0 +1,35 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+apply plugin: 'com.inriaspirals.androfleetplugin'
+
+buildscript {
+    repositories {
+        jcenter()
+        maven {
+            url uri('/home/lakhdar/ilab/Androfleet_Plugin')
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+        classpath 'com.google.gms:google-services:3.1.0'
+        classpath 'com.inriaspirals.gradle:androfleetplugin:1.0'
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+androfleet {
+    nodes 2
+    androidVersion 23
+    androfleetPath = "./androfleet"
+    dataExchangePort = 8888
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/lakhdar/.android/build-cache/078a5550ef49ce00fcbe27140f850a70844a7b26/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/lakhdar/.android/build-cache/078a5550ef49ce00fcbe27140f850a70844a7b26/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/lakhdar/.android/build-cache/078a5550ef49ce00fcbe27140f850a70844a7b26/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/lakhdar/.android/build-cache/078a5550ef49ce00fcbe27140f850a70844a7b26/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    }
+]

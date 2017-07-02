@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-xxxhdpi/wifidirect_launcher.png",
+        "source": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/src/main/res/drawable-xxxhdpi/wifidirect_launcher.png"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-xxxhdpi/wifidirect_banner.png",
+        "source": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/src/main/res/drawable-xxxhdpi/wifidirect_banner.png"
+    }
+]

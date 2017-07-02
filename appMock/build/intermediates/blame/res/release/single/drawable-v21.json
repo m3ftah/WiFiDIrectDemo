@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/home/lakhdar/.android/build-cache/978e264855a0737af704073e61ff795bcf6c9bd1/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/home/lakhdar/.android/build-cache/978e264855a0737af704073e61ff795bcf6c9bd1/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/home/lakhdar/.android/build-cache/978e264855a0737af704073e61ff795bcf6c9bd1/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/lakhdar/.android/build-cache/978e264855a0737af704073e61ff795bcf6c9bd1/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

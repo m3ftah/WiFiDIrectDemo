@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/lakhdar/.android/build-cache/f7c413ad61fdc32ea7dea4d1bd74a2436aef60f9/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/lakhdar/.android/build-cache/8ed8ec564b4f956c30c389cfd26ddc4e50b80807/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,9 @@
+reinstall_apps
+ADB_DEVICE_ARG=192.168.49.1
+ADB_DEVICE_ARG="192.168.49.1"
+reinstall_apps
+exit
+reinstall_apps
+start_test_server_in_background
+press_menu_button
+exit

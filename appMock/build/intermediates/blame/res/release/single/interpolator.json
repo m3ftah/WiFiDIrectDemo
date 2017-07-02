@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/release/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/lakhdar/.android/build-cache/f0aeb47c3dec7e176373ea7982c29e5ec90da3be/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

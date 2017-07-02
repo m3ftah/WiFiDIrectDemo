@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/xml/paths.xml",
+        "source": "/home/lakhdar/.android/build-cache/7c999835d962dd8c0de906639ed57d4ed2e7007f/output/res/xml/paths.xml"
+    },
+    {
+        "merged": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/src/main/res/xml/provider_paths.xml"
+    }
+]
