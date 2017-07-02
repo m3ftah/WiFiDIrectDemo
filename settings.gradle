@@ -1,1 +1,1 @@
-include ':app', ':appMock'
+include ':appMock'

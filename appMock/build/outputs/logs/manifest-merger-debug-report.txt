@@ -125,7 +125,7 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /home/lakhdar/.android/
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/lakhdar/.android/build-cache/fe1918e368915b6a3088f33d1b80e49cba12a69a/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/lakhdar/.android/build-cache/8c944f29f07ee044bad4cd9d68c86c65054b2af2/output/AndroidManifest.xml:29:5-20
 MERGED from [com.kbeanie:multipicker:1.1.31] /home/lakhdar/.android/build-cache/7c999835d962dd8c0de906639ed57d4ed2e7007f/output/AndroidManifest.xml:11:5-21:19
-MERGED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:11:5-24:19
+MERGED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:11:5-24:19
 	android:label
 		ADDED from /home/lakhdar/ilab/examples/WiFiDIrectDemo-master/appMock/src/main/AndroidManifest.xml:21:9-41
 	android:supportsRtl
@@ -276,7 +276,7 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /home/lakhdar/.android/
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/lakhdar/.android/build-cache/fe1918e368915b6a3088f33d1b80e49cba12a69a/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.3.1] /home/lakhdar/.android/build-cache/8c944f29f07ee044bad4cd9d68c86c65054b2af2/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.kbeanie:multipicker:1.1.31] /home/lakhdar/.android/build-cache/7c999835d962dd8c0de906639ed57d4ed2e7007f/output/AndroidManifest.xml:7:5-9:41
-MERGED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] /home/lakhdar/.android/build-cache/978e264855a0737af704073e61ff795bcf6c9bd1/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
@@ -536,24 +536,24 @@ ADDED from [com.kbeanie:multipicker:1.1.31] /home/lakhdar/.android/build-cache/7
 	android:name
 		ADDED from [com.kbeanie:multipicker:1.1.31] /home/lakhdar/.android/build-cache/7c999835d962dd8c0de906639ed57d4ed2e7007f/output/AndroidManifest.xml:13:13-73
 receiver#mock.core.WiDiBroadcastReceiver
-ADDED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:14:9-23:20
+ADDED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:14:9-23:20
 	class
-		ADDED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:16:13-52
+		ADDED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:16:13-52
 	android:name
-		ADDED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:15:13-59
+		ADDED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:15:13-59
 intent-filter#mock.CONNECT
-ADDED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:17:13-19:29
+ADDED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:17:13-19:29
 	android:priority
-		ADDED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:17:28-50
+		ADDED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:17:28-50
 action#mock.CONNECT
-ADDED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:18:17-55
+ADDED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:18:17-55
 	android:name
-		ADDED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:18:25-52
+		ADDED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:18:25-52
 intent-filter#mock.THIS_DEVICE_CHANGED_EMULATOR
-ADDED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:20:13-22:29
+ADDED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:20:13-22:29
 	android:priority
-		ADDED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:20:28-50
+		ADDED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:20:28-50
 action#mock.THIS_DEVICE_CHANGED_EMULATOR
-ADDED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:21:17-76
+ADDED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:21:17-76
 	android:name
-		ADDED from [:widi:] /home/lakhdar/.android/build-cache/9ecbc39485b81bdc30ab072ace9b23341e8ec09b/output/AndroidManifest.xml:21:25-73
+		ADDED from [:widi:] /home/lakhdar/.android/build-cache/d4f92aef2f96304ae7fe703fc8a0095063c8a9b4/output/AndroidManifest.xml:21:25-73

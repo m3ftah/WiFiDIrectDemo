@@ -1,11 +1,11 @@
 Feature: File sharing feature
 
-  Scenario: Simple photos sharing - Receiving                # features/node1.feature:3
+  Scenario: 1- Simple image sharing - Receiving              # features/node1.feature:3
     Given I activate WiFi Direct                             # features/step_definitions/calabash_steps.rb:26
     Given I wait up to 60 seconds for "Available" to appear  # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:26
     Given I don't see the text "Disconnect"                  # calabash-android-0.9.0/lib/calabash-android/steps/assert_steps.rb:23
     When I take a screenshot                                 # calabash-android-0.9.0/lib/calabash-android/steps/screenshot_steps.rb:9
-    Then I wait for 5 seconds                                # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:10
+    Then I wait for 10 seconds                               # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:10
     Then I press the menu key                                # calabash-android-0.9.0/lib/calabash-android/steps/navigation_steps.rb:5
     Then I press the text view "Discover"                    # features/step_definitions/calabash_steps.rb:13
     When I should see "finding peers"                        # calabash-android-0.9.0/lib/calabash-android/steps/assert_steps.rb:9
@@ -19,26 +19,45 @@ Feature: File sharing feature
     Then I wait for 5 seconds                                # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:10
     Then I take a screenshot                                 # calabash-android-0.9.0/lib/calabash-android/steps/screenshot_steps.rb:9
 
-  Scenario: Simple photos sharing - Sending                  # features/node1.feature:22
+  Scenario: 2- Transferring image from Group Owner           # features/node1.feature:23
     Given I activate WiFi Direct                             # features/step_definitions/calabash_steps.rb:26
-    Given I wait up to 60 seconds for "Available" to appear  # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:26
+    Then I wait up to 60 seconds for "Available" to appear   # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:26
     Then I don't see the text "Disconnect"                   # calabash-android-0.9.0/lib/calabash-android/steps/assert_steps.rb:23
-    When I take an image                                     # features/step_definitions/calabash_steps.rb:19
+    When I take a screenshot                                 # calabash-android-0.9.0/lib/calabash-android/steps/screenshot_steps.rb:9
+    Then I wait for 10 seconds                               # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:10
     Then I press the menu key                                # calabash-android-0.9.0/lib/calabash-android/steps/navigation_steps.rb:5
     Then I press the text view "Discover"                    # features/step_definitions/calabash_steps.rb:13
     Then I should see "finding peers"                        # calabash-android-0.9.0/lib/calabash-android/steps/assert_steps.rb:9
-    Then I wait up to 60 seconds for "N192168491" to appear  # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:26
     Then I wait up to 60 seconds for "CHOOSE FILE" to appear # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:26
       Timeout waiting for elements: * {text CONTAINS[c] 'CHOOSE FILE'} (Calabash::Android::WaitHelpers::WaitError)
-      features/node1.feature:32:in `Then I wait up to 60 seconds for "CHOOSE FILE" to appear'
+      features/node1.feature:33:in `Then I wait up to 60 seconds for "CHOOSE FILE" to appear'
     Then I press the "CHOOSE FILE" button                    # calabash-android-0.9.0/lib/calabash-android/steps/press_button_steps.rb:1
     Then I take a screenshot                                 # calabash-android-0.9.0/lib/calabash-android/steps/screenshot_steps.rb:9
     Then I tap in 150 200                                    # features/step_definitions/calabash_steps.rb:16
     Then I tap in 150 200                                    # features/step_definitions/calabash_steps.rb:16
 
-Failing Scenarios:
-cucumber features/node1.feature:22 # Scenario: Simple photos sharing - Sending
+  Scenario: 3- Deactivating WiFi P2p before file transfer    # features/node1.feature:39
+    Given I deactivate WiFi Direct                           # features/step_definitions/calabash_steps.rb:29
+    Given I wait up to 60 seconds for "Available" to appear  # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:26
+    Given I don't see the text "Disconnect"                  # calabash-android-0.9.0/lib/calabash-android/steps/assert_steps.rb:23
+    When I take a screenshot                                 # calabash-android-0.9.0/lib/calabash-android/steps/screenshot_steps.rb:9
+    Then I wait for 10 seconds                               # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:10
+    Then I press the menu key                                # calabash-android-0.9.0/lib/calabash-android/steps/navigation_steps.rb:5
+    When I press the text view "Discover"                    # features/step_definitions/calabash_steps.rb:13
+    Then I should see "finding peers"                        # calabash-android-0.9.0/lib/calabash-android/steps/assert_steps.rb:9
+    Then I wait up to 60 seconds for "N192168491" to appear  # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:26
+    Then I touch the "N192168491" text                       # calabash-android-0.9.0/lib/calabash-android/steps/press_button_steps.rb:25
+    Then I wait for the "Connect" button to appear           # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:38
+    Then I press the "Connect" button                        # calabash-android-0.9.0/lib/calabash-android/steps/press_button_steps.rb:1
+    Then I should see "Connecting to"                        # calabash-android-0.9.0/lib/calabash-android/steps/assert_steps.rb:9
+    Then I wait up to 60 seconds for "CHOOSE FILE" to appear # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:26
+    Then I take a screenshot                                 # calabash-android-0.9.0/lib/calabash-android/steps/screenshot_steps.rb:9
+    Then I wait for 5 seconds                                # calabash-android-0.9.0/lib/calabash-android/steps/progress_steps.rb:10
+    Then I take a screenshot                                 # calabash-android-0.9.0/lib/calabash-android/steps/screenshot_steps.rb:9
 
-2 scenarios (1 failed, 1 passed)
-30 steps (1 failed, 4 skipped, 25 passed)
-2m8.636s
+Failing Scenarios:
+cucumber features/node1.feature:23 # Scenario: 2- Transferring image from Group Owner
+
+3 scenarios (1 failed, 2 passed)
+47 steps (1 failed, 4 skipped, 42 passed)
+2m58.342s
