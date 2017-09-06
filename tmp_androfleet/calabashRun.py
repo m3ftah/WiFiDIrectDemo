@@ -3,9 +3,6 @@
 import os
 import sys
 import subprocess
-import argparse
-import json
-import shutil
 
 node = sys.argv[1]
 ANDROFLEET_PATH = sys.argv[2]
@@ -34,6 +31,7 @@ subprocess.call(['calabash-android',
 'run', 'appMock-debug.apk',
 'features/node'+ node +'.feature', 
 'ADB_DEVICE_ARG=192.168.49.' + str(int(node)+1),
+'TEST_SERVER_PORT=289' + str(int(node)+1),
 '-f', 'pretty',
 '-f', 'pretty',
 '-o', 'results/node'+ node +'.txt',

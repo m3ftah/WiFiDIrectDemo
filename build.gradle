@@ -6,7 +6,7 @@ buildscript {
     repositories {
         jcenter()
         maven {
-            url uri('./Androfleet_Plugin')
+            url uri('../../android-p2p-mockplugin/Androfleet_Plugin')
         }
     }
     dependencies {
